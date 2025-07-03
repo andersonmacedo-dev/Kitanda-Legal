@@ -1,12 +1,41 @@
-# React + Vite
+# Kitanda Legal 🍓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Kitanda Legal** é uma loja online de frutas frescas, feita com **React** e **JavaScript**. O projeto foi desenvolvido com foco em simplicidade, desempenho e uma experiência moderna para quem deseja comprar frutas direto do produtor.
 
-Currently, two official plugins are available:
+## 🌐 Demonstração ao vivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Acesse o site online:  
+🔗 [https://kitanda-legal.vercel.app](https://kitanda-legal.vercel.app)
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Layout responsivo para desktop e mobile  
+- ✅ Animações suaves com Framer Motion  
+- ✅ Produtos destacados com imagens e descrições  
+- ✅ Botões interativos e interface amigável  
+
+## 🛠️ Tecnologias utilizadas
+
+- [React](https://reactjs.org/)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [Framer Motion](https://www.framer.com/motion/)  
+- [Vercel](https://vercel.com/) (deploy)
+
+## 🚀 Como rodar localmente
+
+```bash
+git clone https://github.com/macedcrazy/kitanda-legal.git
+cd kitanda-legal
+npm install
+npm start
+
+
+Certifique-se de ter o Node.js instalado.
+
+📬 Contato
+Em caso de dúvidas ou sugestões:
+📧 seu-email@exemplo.com
+
+Feito com carinho para quem ama frutas frescas! 🍇🍉🍊
+Sinta-se à vontade para usar, modificar ou contribuir com este projeto.
