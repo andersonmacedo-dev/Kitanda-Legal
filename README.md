@@ -35,7 +35,7 @@ Certifique-se de ter o Node.js instalado.
 
 📬 Contato
 Em caso de dúvidas ou sugestões:
-📧 seu-email@exemplo.com
+📧 andersonmacedo8392@gmail.com
 
 Feito com carinho para quem ama frutas frescas! 🍇🍉🍊
 Sinta-se à vontade para usar, modificar ou contribuir com este projeto.
